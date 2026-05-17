@@ -4,5 +4,5 @@
 
 </div>
 
-[logo-url]: https://user-images.githubusercontent.com/10624446/189205326-01c18c22-14eb-4d52-bce4-e699e134cdc4.png
+[logo-url]: https://github.com/user-attachments/assets/9bd210c1-ca83-4147-a8cd-71fb4d5f5ab4
 [repo-url]: https://github.com/abydahana/aksara
