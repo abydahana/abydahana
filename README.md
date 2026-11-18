@@ -4,5 +4,5 @@
 
 </div>
 
-[logo-url]: https://github.com/user-attachments/assets/9bd210c1-ca83-4147-a8cd-71fb4d5f5ab4
-[repo-url]: https://github.com/abydahana/aksara
+[logo-url]: https://github.com/user-attachments/assets/ca7c9de3-9d15-45f2-8a3d-eb8a23794ff3
+[repo-url]: https://gifthub.id
