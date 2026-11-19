@@ -4,5 +4,5 @@
 
 </div>
 
-[logo-url]: https://github.com/user-attachments/assets/ca7c9de3-9d15-45f2-8a3d-eb8a23794ff3
+[logo-url]: https://github.com/user-attachments/assets/808e3a8f-afb1-4885-8c5c-6e6fa959e79c
 [repo-url]: https://gifthub.id
